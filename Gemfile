@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'bower-rails'
 gem 'faker'
+gem 'angular-rails-templates'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
